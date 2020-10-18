@@ -6,38 +6,11 @@ Project aims to create TODO Application with React Native.
 
 ## Problem Statement
 
-- Your company has recently started on a project that aims to create a TODO Application for personal usage. So you and your colleagues have started to work on the project.
+- User can enter a todo item
+- If user enters an empty string the app gives a warning
+- Entered todo items should show up on the screen
+- User can set the status of the items to done by pressing on each item
+- User can delete an item by pressin on long
+- The number of active todo items is always shown on the screen
 
-## Expected Outcome
-
-![Project 000 Snapshot](./images/001.png)
-
-![Project 000 Snapshot](./images/002.png)
-
-![Project 000 Snapshot](./images/003.png)
-
-### At the end of the project, following topics are to be covered;
-
-- HTML
-
-- CSS
-
-- JS
-
-- React Native
-
-### At the end of the project, students will be able to;
-
-- improve coding skills within HTML & CSS & JS & React Native.
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-## Steps to Solution
-
-- Step 1: Download or clone project repo on Github
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Create News Page with React Native.
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+<img src="src/assets/todo.gif">
