@@ -30,7 +30,7 @@ const App = () => {
     text === ''
       ? alert('You should enter an item')
       : setList(() => {
-          return [...list, {id: list.length, todo: text, isDone: false}];
+          return [...list, {id: Math.random().toString(), todo: text, isDone: false}];
         });
   }
 
